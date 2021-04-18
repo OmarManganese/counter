@@ -9,5 +9,5 @@ These languages were used:
 * Javascript
 
 ## Link
-You can try the counter at this link:
+You can try the counter at [this link](https://counter-cffb8.firebaseapp.com/)
 
